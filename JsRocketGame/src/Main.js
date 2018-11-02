@@ -1,4 +1,6 @@
 import GameConfig from "./GameConfig";
+import ConfigMgr from "./mgr/ConfigMgr"
+
 class Main {
 	constructor() {
 		//根据IDE设置初始化引擎		
@@ -29,6 +31,8 @@ class Main {
 	}
 
 	onConfigLoaded() {
+		//初始化配置表
+		ConfigMgr.getInstance();
 		//加载IDE指定的场景
 		GameConfig.startScene && Laya.Scene.open(GameConfig.startScene);
 	}

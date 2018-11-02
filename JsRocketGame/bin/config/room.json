@@ -1,0 +1,156 @@
+{
+    "rows": 31, 
+    "children": [
+        {
+            "desc": "第一关", 
+            "roomId": 1.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第二关", 
+            "roomId": 2.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第三关", 
+            "roomId": 3.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第四关", 
+            "roomId": 4.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第五关", 
+            "roomId": 5.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第六关", 
+            "roomId": 6.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第七关", 
+            "roomId": 7.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第八关", 
+            "roomId": 8.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第九关", 
+            "roomId": 9.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "第十关", 
+            "roomId": 10.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 11.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 12.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 13.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 14.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 15.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 16.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 17.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 18.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 19.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 20.0, 
+            "level": 1.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 21.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 22.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 23.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 24.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 25.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 26.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 27.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 28.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 29.0, 
+            "level": 2.0
+        }, 
+        {
+            "desc": "暂缺", 
+            "roomId": 30.0, 
+            "level": 2.0
+        }
+    ], 
+    "title": "E:\\LayaProjects\\JsRocketGame\\dcart\\xlsx\\excelToJson\\room.xlsx"
+}
