@@ -1,0 +1,11 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="GameLobby/Lobby.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="GameLobby/Toast.scene" props="" ifExport="Default" aName="d"/>
+   <item name="common/Loading.scene" props="" ifExport="File Mode" aName=""/>
+   <item name="common/Preload.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="common/Toast.scene" props="" ifExport="Default" aName=""/>
+   <item name="common/Mask.scene" props="" ifExport="Default" aName=""/>
+   <item name="games/lobby/GameLobby.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="lobby/GameLobby.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>
